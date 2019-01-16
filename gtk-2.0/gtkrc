@@ -3,10 +3,10 @@
 # based on "Greybird" by Simon Steinbeiß
 # Description: As is the original theme, this theme is 100% free and open source.
 
-gtk-color-scheme   = "bg_color:#272822\nselected_bg_color:#66d9ee\nbase_color:#272822" # Background, base.
+gtk-color-scheme   = "bg_color:#272822\nselected_bg_color:#fe9720\nbase_color:#272822" # Background, base.
 gtk-color-scheme   = "fg_color:#ffffff\nselected_fg_color:#ffffff\ntext_color:#ffffff" # Foreground, text.
 gtk-color-scheme   = "tooltip_bg_color:#272822\ntooltip_fg_color:#FFFFFF" # Tooltips.
-gtk-color-scheme   = "link_color:#a7e22e" # Hyperlinks
+gtk-color-scheme   = "link_color:#6cc72c" # Hyperlinks
 gtk-color-scheme   = "panel_bg_color:#272822" # Panel bg color
 gtk-color-scheme   = "panel_fg_color:#ffffff" # Panel fg color
 gtk-color-scheme   = "fm_color:#ffffff" # Color used in Thunar.
