@@ -852,9 +852,9 @@ scrollbar.right { border-left: 0px solid #76715e; }
 
 scrollbar slider { min-width: 14px; min-height: 14px; margin: -1px; border: 1px solid transparent; border-radius: 0px; background-clip: padding-box; background-color: #343430; }
 
-scrollbar slider:hover { background-color: #76715e; }
+scrollbar slider:hover { background-color: #fe9720; }
 
-scrollbar slider:hover:active { background-color: #76715e; }
+scrollbar slider:hover:active { background-color: #fe9720; }
 
 scrollbar slider:disabled { background-color: transparent; }
 
@@ -886,7 +886,7 @@ scrollbar.vertical slider { min-height: 40px; }
 
 scrollbar button { padding: 0; min-width: 14px; min-height: 14px; border-style: none; border-radius: 0; transition-property: min-height, min-width, color; box-shadow: none; color: #343430; }
 
-scrollbar button:hover { color: #76715e; box-shadow: none; }
+scrollbar button:hover { color: #fe9720; box-shadow: none; }
 
 scrollbar button:active, scrollbar button:checked { box-shadow: none; color: #fe9720; }
 

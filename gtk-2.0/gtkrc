@@ -449,10 +449,10 @@ style "scrollbar"
 {
     GtkScrollbar::arrow-scaling = 0.5
 
-    bg[NORMAL]      = shade (0.6, @bg_color)
-    bg[ACTIVE]      = shade (0.4, @bg_color)
-    bg[PRELIGHT]    = shade (0.4, @bg_color)
-    bg[INSENSITIVE] = shade (1.0, @bg_color)
+    bg[NORMAL]      = #76715e
+    bg[ACTIVE]      = @selected_bg_color
+    bg[PRELIGHT]    = @selected_bg_color
+    bg[INSENSITIVE] = @bg_color
 
     engine "murrine"
     {
@@ -473,9 +473,9 @@ style "vscrollbar" {
 
 style "overlay-scrollbar"
 {
-    bg[SELECTED]    = shade (1.0, @selected_bg_color)
-    bg[INSENSITIVE] = shade (0.85, @bg_color)
-    bg[ACTIVE]      = shade (0.6, @bg_color)
+    bg[SELECTED]    = #76715e
+    bg[INSENSITIVE] = @bg_color
+    bg[ACTIVE]      = @selected_bg_color
 }
 
 style "statusbar"

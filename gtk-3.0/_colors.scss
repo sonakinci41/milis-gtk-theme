@@ -22,7 +22,7 @@ $popover_hover_color: #76715e;
 
 $scrollbar_bg_color: if($variant == 'light', #cfd0c2, #272822);
 $scrollbar_slider_color: if($variant == 'light', #aba795, #343430);
-$scrollbar_slider_hover_color: #76715e;
+$scrollbar_slider_hover_color: #fe9720;
 $scrollbar_slider_active_color: #fe9720;
 
 $warning_color: #fa2772;
@@ -63,9 +63,9 @@ $backdrop_insensitive_color: if($variant == 'light', #aba795, #343430);
 $backdrop_selected_fg_color: $selected_fg_color;
 $backdrop_borders_color: #76715e;
 $backdrop_dark_fill: if($variant == 'light', #cfd0c2, #272822);
-$backdrop_sidebar_bg_color: mix($backdrop_bg_color, $backdrop_base_color, 50%);
+$backdrop_sidebar_bg_color: if($variant == 'light', #cfd0c2, #272822);
 
-$backdrop_scrollbar_bg_color: #76715e;
-$backdrop_scrollbar_slider_color: mix($fg_color, $bg_color, 50%);
+$backdrop_scrollbar_bg_color: if($variant == 'light', #cfd0c2, #272822);
+$backdrop_scrollbar_slider_color: #76715e;
 
 $backdrop_menu_color: if($variant == 'light', #cfd0c2, #272822);
