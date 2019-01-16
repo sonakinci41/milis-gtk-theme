@@ -838,7 +838,7 @@ notebook > header.bottom tab { padding-top: 2px; }
 notebook > stack:not(:only-child) { background-color: #272822; }
 
 /************** Scrollbars * */
-scrollbar { background-color: #1c1d19; border-width: 0; }
+scrollbar { background-color: #272822; border-width: 0; }
 
 * { -GtkScrollbar-has-backward-stepper: true; -GtkScrollbar-has-forward-stepper: true; }
 
@@ -850,11 +850,11 @@ scrollbar.left { border-right: 0px solid #76715e; }
 
 scrollbar.right { border-left: 0px solid #76715e; }
 
-scrollbar slider { min-width: 14px; min-height: 14px; margin: -1px; border: 1px solid transparent; border-radius: 0px; background-clip: padding-box; background-color: #939491; }
+scrollbar slider { min-width: 14px; min-height: 14px; margin: -1px; border: 1px solid transparent; border-radius: 0px; background-clip: padding-box; background-color: #343430; }
 
-scrollbar slider:hover { background-color: #d4d4d3; }
+scrollbar slider:hover { background-color: #76715e; }
 
-scrollbar slider:hover:active { background-color: #d4d4d3; }
+scrollbar slider:hover:active { background-color: #76715e; }
 
 scrollbar slider:disabled { background-color: transparent; }
 
@@ -884,13 +884,13 @@ scrollbar.horizontal slider { min-width: 40px; }
 
 scrollbar.vertical slider { min-height: 40px; }
 
-scrollbar button { padding: 0; min-width: 14px; min-height: 14px; border-style: none; border-radius: 0; transition-property: min-height, min-width, color; box-shadow: none; color: #939491; }
+scrollbar button { padding: 0; min-width: 14px; min-height: 14px; border-style: none; border-radius: 0; transition-property: min-height, min-width, color; box-shadow: none; color: #343430; }
 
-scrollbar button:hover { color: #d4d4d3; box-shadow: none; }
+scrollbar button:hover { color: #76715e; box-shadow: none; }
 
-scrollbar button:active, scrollbar button:checked { box-shadow: none; color: #feaf53; }
+scrollbar button:active, scrollbar button:checked { box-shadow: none; color: #fe9720; }
 
-scrollbar button:disabled { color: rgba(147, 148, 145, 0.2); box-shadow: none; }
+scrollbar button:disabled { color: rgba(52, 52, 48, 0.2); box-shadow: none; }
 
 scrollbar.vertical button.up { -gtk-icon-source: -gtk-scaled(url("assets/scrollarrow-up-dark.png"), url("assets/scrollarrow-up-dark@2.png")); }
 
@@ -1295,7 +1295,7 @@ scrolledwindow undershoot.left { background-color: transparent; background-image
 
 scrolledwindow undershoot.right { background-color: transparent; background-image: linear-gradient(to top, rgba(255, 255, 255, 0.2) 50%, rgba(0, 0, 0, 0.2) 50%); padding-right: 1px; background-size: 0px 10px; background-repeat: repeat-y; background-origin: content-box; background-position: right center; border: none; box-shadow: none; }
 
-scrolledwindow junction { border-color: transparent; border-image: linear-gradient(to bottom, #76715e 1px, transparent 1px) 0 0 0 1/0 1px stretch; background-color: #1c1d19; }
+scrolledwindow junction { border-color: transparent; border-image: linear-gradient(to bottom, #76715e 1px, transparent 1px) 0 0 0 1/0 1px stretch; background-color: #272822; }
 
 scrolledwindow junction:dir(rtl) { border-image-slice: 0 1 0 0; }
 
