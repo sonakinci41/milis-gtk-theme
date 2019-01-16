@@ -449,7 +449,7 @@ style "scrollbar"
 {
     GtkScrollbar::arrow-scaling = 0.5
 
-    bg[NORMAL]      = #76715e
+    bg[NORMAL]      = "#343430"
     bg[ACTIVE]      = @selected_bg_color
     bg[PRELIGHT]    = @selected_bg_color
     bg[INSENSITIVE] = @bg_color
@@ -473,7 +473,7 @@ style "vscrollbar" {
 
 style "overlay-scrollbar"
 {
-    bg[SELECTED]    = #76715e
+    bg[SELECTED]    = "#343430"
     bg[INSENSITIVE] = @bg_color
     bg[ACTIVE]      = @selected_bg_color
 }
