@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-48.604921"
-     inkscape:cy="-15.753129"
+     inkscape:zoom="2"
+     inkscape:cx="-29.617782"
+     inkscape:cy="131.46396"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -279,32 +279,14 @@
        width="1"
        id="selected-color"
        style="opacity:1;fill:#66d9ee;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5098038" />
-    <g
+    <rect
+       style="opacity:1;fill:#272822;fill-opacity:1;stroke:none;stroke-opacity:1"
        id="toolbar"
-       inkscape:label="#g6323"
-       transform="translate(-149.5,-11)">
-      <rect
-         y="900.6048"
-         x="225.72035"
-         height="36"
-         width="1"
-         id="rect198"
-         style="opacity:1;fill:#48483e;fill-opacity:1;stroke:none;stroke-opacity:1" />
-      <rect
-         style="opacity:1;fill:#343430;fill-opacity:1;stroke:none;stroke-opacity:1"
-         id="rect200"
-         width="1"
-         height="1"
-         x="225.72035"
-         y="935.6048" />
-      <rect
-         style="opacity:1;fill:#343430;fill-opacity:1;stroke:none;stroke-opacity:1"
-         id="rect202"
-         width="1"
-         height="1"
-         x="225.72035"
-         y="900.6048" />
-    </g>
+       width="1"
+       height="36"
+       x="76.220352"
+       y="889.6048"
+       inkscape:label="#rect198" />
     <g
        id="radio-unchecked"
        inkscape:label="#g5408"
