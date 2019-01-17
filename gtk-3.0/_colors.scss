@@ -38,7 +38,7 @@ $osd_insensitive_fg_color: mix($osd_fg_color, opacify($osd_bg_color, 1), 50%);
 $osd_borders_color: #76715e;
 
 $sidebar_bg_color: if($variant == 'light', #cfd0c2, #272822);
-$base_hover_color: transparentize($fg_color, 0.95);
+$base_hover_color: transparentize(#fe9720, 1);
 
 $tooltip_borders_color: #76715e;
 $shadow_color: #76715e;
@@ -52,7 +52,7 @@ $panel_fg: white;
 //insensitive state derived colors
 $insensitive_fg_color: #76715e;
 $insensitive_bg_color: if($variant == 'light', #aba795, #343430);
-$insensitive_borders_color: $borders_color;
+$insensitive_borders_color: if($variant == 'light', #aba795, #343430);
 
 //colors for the backdrop state, derived from the main colors.
 $backdrop_base_color: $base_color;
