@@ -1822,7 +1822,7 @@ read if you used those and something break with a version upgrade you're on your
 @define-color wm_bg_b #cfd0c2;
 @define-color wm_shadow alpha(black, 0.35);
 @define-color wm_border alpha(black, 0.18);
-@define-color wm_button_hover_color_a shade #fe9720;
+@define-color wm_button_hover_color_a shade(#cfd0c2, 1.3);
 @define-color wm_button_hover_color_b #cfd0c2;
 @define-color wm_button_active_color_a shade(#cfd0c2, 0.85);
 @define-color wm_button_active_color_b shade(#cfd0c2, 0.89);
