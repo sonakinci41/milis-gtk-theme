@@ -32,7 +32,7 @@ $destructive_color: #fa2772;
 
 $osd_fg_color: #ffffff;
 $osd_text_color: white;
-$osd_bg_color: #272822;
+$osd_bg_color: if($variant == 'light', #cfd0c2, #272822);
 $osd_insensitive_bg_color: if($variant == 'light', #aba795, #343430);
 $osd_insensitive_fg_color: #76715e;
 $osd_borders_color: #76715e;
@@ -46,8 +46,8 @@ $shadow_color: #76715e;
 $drop_target_color: #6cc72c;
 
 // Unity and other GTK3 panels
-$panel_bg: #272822;
-$panel_fg: white;
+$panel_bg: if($variant == 'light', #cfd0c2, #272822);
+$panel_fg: if($variant == 'light', black, white);
 
 //insensitive state derived colors
 $insensitive_fg_color: #76715e;
