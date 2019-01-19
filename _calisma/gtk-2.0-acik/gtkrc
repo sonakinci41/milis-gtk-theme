@@ -4,12 +4,12 @@
 # Tema lisansı GPLv3.0 dır.
 
 gtk-color-scheme   = "bg_color:#cfd0c2\nselected_bg_color:#fe9720\nbase_color:#ffffff" # Background, base.
-gtk-color-scheme   = "fg_color:#000000\nselected_fg_color:#000000\ntext_color:#000000" # Foreground, text.
-gtk-color-scheme   = "tooltip_bg_color:#cfd0c2\ntooltip_fg_color:#000000" # Tooltips.
+gtk-color-scheme   = "fg_color:#272822\nselected_fg_color:#272822\ntext_color:#272822" # Foreground, text.
+gtk-color-scheme   = "tooltip_bg_color:#cfd0c2\ntooltip_fg_color:#272822" # Tooltips.
 gtk-color-scheme   = "link_color:#6cc72c" # Hyperlinks
 gtk-color-scheme   = "panel_bg_color:#cfd0c2" # Panel bg color
-gtk-color-scheme   = "panel_fg_color:#000000" # Panel fg color
-gtk-color-scheme   = "fm_color:#000000" # Color used in Thunar.
+gtk-color-scheme   = "panel_fg_color:#272822" # Panel fg color
+gtk-color-scheme   = "fm_color:#272822" # Color used in Thunar.
 gtk-color-scheme   = "bg_color_dark:#cfd0c2\ntext_color_dark:#cfd0c2"
 
 gtk-icon-sizes     = "panel-applications-menu=24,24:panel-menu=24,24:panel=16,16:gtk-button=16,16"
@@ -412,7 +412,7 @@ style "tooltips" = "wider"
     ythickness = 4
 
     bg[NORMAL]   = @tooltip_bg_color
-    bg[SELECTED] = "#000000"
+    bg[SELECTED] = "#272822"
     fg[NORMAL]   = @tooltip_fg_color
 
     engine "murrine"
@@ -693,8 +693,8 @@ style "xfdesktop-icon-view"
 
 style "calendar"
 {
-    fg[NORMAL]   = "#000000"
-    fg[PRELIGHT] = "#000000"
+    fg[NORMAL]   = "#272822"
+    fg[PRELIGHT] = "#272822"
     bg[NORMAL]   = shade (0.6, @bg_color_dark)
     bg[PRELIGHT] = shade (0.8, @selected_bg_color)
 }
