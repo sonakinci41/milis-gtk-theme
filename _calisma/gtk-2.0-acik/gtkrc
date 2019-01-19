@@ -3,7 +3,7 @@
 # Lassekongo83 nickli geliştiricinin Zukitre teması temel alınarak hazırlanmıştır
 # Tema lisansı GPLv3.0 dır.
 
-gtk-color-scheme   = "bg_color:#cfd0c2\nselected_bg_color:#fe9720\nbase_color:#f2f2ee" # Background, base.
+gtk-color-scheme   = "bg_color:#cfd0c2\nselected_bg_color:#fe9720\nbase_color:#ffffff" # Background, base.
 gtk-color-scheme   = "fg_color:#000000\nselected_fg_color:#000000\ntext_color:#000000" # Foreground, text.
 gtk-color-scheme   = "tooltip_bg_color:#cfd0c2\ntooltip_fg_color:#000000" # Tooltips.
 gtk-color-scheme   = "link_color:#6cc72c" # Hyperlinks
