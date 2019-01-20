@@ -44,8 +44,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0000001"
-     inkscape:cx="57.638621"
-     inkscape:cy="116.07014"
+     inkscape:cx="86.336967"
+     inkscape:cy="98.074023"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1193,7 +1193,7 @@
     </g>
     <g
        id="top-left-inactive"
-       inkscape:label="#g1230">
+       inkscape:label="#g1014">
       <rect
          y="733.36212"
          x="-10.000004"
@@ -1216,7 +1216,7 @@
          height="1"
          width="1"
          id="rect2043"
-         style="fill:#cfd0c2;fill-opacity:1"
+         style="fill:#48483e;fill-opacity:1"
          transform="scale(-1,1)" />
       <rect
          y="731.36212"
@@ -1224,7 +1224,7 @@
          height="1"
          width="2"
          id="rect2045"
-         style="fill:#cfd0c2;fill-opacity:1"
+         style="fill:#48483e;fill-opacity:1"
          transform="scale(-1,1)" />
       <rect
          y="733.36212"
@@ -1232,51 +1232,52 @@
          height="26.000029"
          width="1"
          id="rect2047"
-         style="fill:#cfd0c2;fill-opacity:1;stroke-width:1.04083359"
+         style="fill:#48483e;fill-opacity:1;stroke-width:1.04083359"
          transform="scale(-1,1)" />
     </g>
     <g
        id="top-right-inactive"
-       inkscape:label="#g1254">
+       inkscape:label="#g1026">
       <rect
          y="733.36212"
-         x="18.000006"
+         x="12.000004"
          height="26.000029"
          width="3"
          id="rect2051"
          style="fill:#272822;fill-opacity:1;stroke-width:1.04083359" />
       <rect
          y="732.36212"
-         x="18.000006"
+         x="12.000004"
          height="1"
          width="2"
          id="rect2053"
          style="fill:#272822;fill-opacity:1" />
       <rect
          y="732.36212"
-         x="20.000006"
+         x="14.000004"
          height="1"
          width="1"
          id="rect2055"
-         style="fill:#cfd0c2;fill-opacity:1" />
+         style="fill:#48483e;fill-opacity:1" />
       <rect
          y="731.36212"
-         x="18.000006"
+         x="12.000004"
          height="1"
          width="2"
          id="rect2057"
-         style="fill:#cfd0c2;fill-opacity:1" />
+         style="fill:#48483e;fill-opacity:1" />
       <rect
          y="733.36212"
-         x="21.000006"
+         x="15.000004"
          height="26.000029"
          width="1"
          id="rect2059"
-         style="fill:#cfd0c2;fill-opacity:1;stroke-width:1.04083359" />
+         style="fill:#48483e;fill-opacity:1;stroke-width:1.04083359" />
     </g>
     <g
        id="top-right-active"
-       inkscape:label="#g1242">
+       inkscape:label="#g1242"
+       transform="translate(5.9999971)">
       <rect
          style="fill:#272822;fill-opacity:1;stroke-width:1.04083359"
          id="rect2063"
