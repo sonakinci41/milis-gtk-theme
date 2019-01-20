@@ -11,7 +11,7 @@ title_vertical_offset_inactive=0
 
 active_text_color=#cfd0c2
 inactive_text_color=#76715e
-inactive_text_shadow_color=#272822
+inactive_text_shadow_color=#aba795
 
 #placement_ratio=20
 shadow_delta_height=2
