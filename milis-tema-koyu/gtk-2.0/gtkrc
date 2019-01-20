@@ -687,7 +687,7 @@ style "xfdesktop-icon-view"
     XfdesktopIconView::cell-padding               = 6
     XfdesktopIconView::cell-text-width-proportion = 1.9
 
-    fg[NORMAL] = shade (0.9, @selected_fg_color)
+    fg[NORMAL] = @text_color
     fg[ACTIVE] = @selected_fg_color
 }
 
