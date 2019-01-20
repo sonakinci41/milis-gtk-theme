@@ -43,9 +43,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="104.78186"
-     inkscape:cy="100.30099"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="127.92576"
+     inkscape:cy="104.48422"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -419,7 +419,7 @@
     </g>
     <g
        id="stick-pressed"
-       inkscape:label="#g1069">
+       inkscape:label="#g1014">
       <rect
          y="562.36212"
          x="162"
@@ -437,14 +437,14 @@
       <g
          id="g381"
          transform="translate(19,9.0000102)"
-         style="fill:#fe9720;fill-opacity:1">
+         style="fill:#6cc72c;fill-opacity:1">
         <rect
            y="564.36218"
            x="151"
            height="7.9999776"
            width="2"
            id="rect377"
-           style="opacity:1;fill:#fe9720;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+           style="opacity:1;fill:#6cc72c;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <rect
            transform="rotate(90)"
            y="-155.99998"
@@ -452,7 +452,7 @@
            height="7.9999776"
            width="2"
            id="rect379"
-           style="opacity:1;fill:#fe9720;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+           style="opacity:1;fill:#6cc72c;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       </g>
     </g>
     <g
@@ -532,7 +532,7 @@
     </g>
     <g
        id="shade-pressed"
-       inkscape:label="#g1110">
+       inkscape:label="#g1026">
       <rect
          y="595.36212"
          x="162"
@@ -550,9 +550,9 @@
       <g
          id="g429"
          transform="translate(17,4.9999878)"
-         style="fill:#fe9720;fill-opacity:1">
+         style="fill:#6cc72c;fill-opacity:1">
         <rect
-           style="opacity:1;fill:#fe9720;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="opacity:1;fill:#6cc72c;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect425"
            width="2"
            height="7.9999776"
@@ -564,7 +564,7 @@
            inkscape:connector-curvature="0"
            id="path427"
            d="m 154,602.36219 4,3.99999 h -8 z"
-           style="opacity:1;fill:#fe9720;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+           style="opacity:1;fill:#6cc72c;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       </g>
     </g>
     <g
