@@ -14,7 +14,7 @@
    viewBox="0 0 200 200"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="assets.svg">
   <defs
      id="defs4" />
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0000001"
-     inkscape:cx="146.62736"
-     inkscape:cy="94.269562"
+     inkscape:zoom="2.8284273"
+     inkscape:cx="103.87307"
+     inkscape:cy="92.918003"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -80,7 +80,7 @@
     </g>
     <g
        id="btn-active-hover"
-       inkscape:label="#g944">
+       inkscape:label="#g952">
       <rect
          y="861.6048"
          x="56.220352"
@@ -106,19 +106,18 @@
     </g>
     <g
        id="btn"
-       inkscape:label="#g6379"
-       transform="translate(-149.5,-11)">
+       inkscape:label="#g938">
       <rect
          style="opacity:1;fill:#000000;fill-opacity:0.03921569;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5098038"
          id="rect144"
          width="12"
          height="12"
-         x="157.72035"
-         y="872.6048"
+         x="8.2203522"
+         y="861.6048"
          ry="1.9999774" />
       <rect
-         y="873.6048"
-         x="158.72035"
+         y="862.6048"
+         x="9.2203522"
          height="10"
          width="10"
          id="rect146"
@@ -129,8 +128,8 @@
          id="rect148"
          width="8"
          height="8"
-         x="159.72035"
-         y="874.6048" />
+         x="10.220352"
+         y="863.6048" />
     </g>
     <g
        id="btn-hover"
@@ -188,7 +187,7 @@
          x="158.72035"
          y="898.6048" />
       <path
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 168.72035,908.6048 h -6 l 6,-6 z"
          id="path174"
          inkscape:connector-curvature="0" />
@@ -203,17 +202,16 @@
        style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5098038" />
     <g
        id="menubar-menuitem"
-       inkscape:label="#g5361"
-       transform="translate(-149.5,-11)">
+       inkscape:label="#g944">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.00028479;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 175.43519,887.6048 c -0.94966,0 -1.71484,0.76518 -1.71484,1.71484 v 4.28516 h 8 v -4.28516 c 0,-0.94966 -0.76518,-1.71484 -1.71484,-1.71484 z"
+         d="m 25.93519,876.6048 c -0.94966,0 -1.71484,0.76518 -1.71484,1.71484 v 4.28516 h 8 v -4.28516 c 0,-0.94966 -0.76518,-1.71484 -1.71484,-1.71484 z"
          id="path180" />
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5098038"
-         d="m 175.72035,888.6048 c -0.55399,0 -1,0.44601 -1,1 v 4 h 6 v -4 c 0,-0.55399 -0.44601,-1 -1,-1 z"
+         d="m 26.22035,877.6048 c -0.55399,0 -1,0.44601 -1,1 v 4 h 6 v -4 c 0,-0.55399 -0.44601,-1 -1,-1 z"
          id="path182" />
     </g>
     <g
@@ -280,7 +278,7 @@
          id="rect210"
          style="opacity:1;fill:#000000;fill-opacity:0.0627451;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
-         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-opacity:1"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
          id="rect212"
          width="14.000002"
          height="14.000002"
@@ -356,7 +354,7 @@
          height="14.000002"
          width="14.000002"
          id="rect232"
-         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-opacity:1" />
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1" />
       <rect
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
          id="rect234"
@@ -549,7 +547,7 @@
          d="m 20.40217,925.6047 -5,6 v 0 l -3,-3.00002 h -1 v 1 l 4,4.00002 v 0 l 6,-7 v -1 z"
          id="path292"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccccccc" />
+         sodipodi:nodetypes="000000ccccc" />
     </g>
     <g
        id="checkbox-checked-insensitive"
@@ -588,7 +586,7 @@
          y="933.60468"
          ry="0" />
       <path
-         sodipodi:nodetypes="ccccccccccc"
+         sodipodi:nodetypes="000000ccccc"
          inkscape:connector-curvature="0"
          id="path304"
          d="m 209.90218,936.6047 -5.00001,6 v 0 l -3,-3.00002 h -1 v 1 l 4,4.00002 v 0 l 6.00001,-7 v -1 z"
@@ -650,7 +648,7 @@
          height="14.000002"
          width="14.000002"
          id="rect320"
-         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-opacity:1" />
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1" />
       <rect
          style="opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-opacity:1"
          id="rect322"
@@ -668,11 +666,11 @@
          y="922.60468"
          ry="0" />
       <path
-         sodipodi:nodetypes="ccccccccccc"
+         sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="path326"
          d="m 40.40217,925.6047 -5,6 v 0 l -3,-3.00002 h -1 v 1 l 4,4.00002 v 0 l 6,-7 v -1 z"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <g
        id="radio-checked-hover"
@@ -689,7 +687,7 @@
          inkscape:connector-curvature="0"
          id="path332"
          d="m 36.22036,962.6047 c -3.878,0 -7,3.122 -7,7 0,3.878 3.122,7 7,7 3.878,0 7,-3.122 7,-7 0,-3.878 -3.122,-7 -7,-7 z m 0,2 c 2.76999,0 5,2.23001 5,5 0,2.76999 -2.23001,5 -5,5 -2.76999,0 -5,-2.23001 -5,-5 0,-2.76999 2.23001,-5 5,-5 z"
-         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-opacity:1" />
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1" />
       <rect
          rx="0"
          ry="5.99998"
@@ -704,22 +702,21 @@
          cy="969.6048"
          cx="36.220352"
          id="circle336"
-         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="column-header"
-       inkscape:label="#g6334"
-       transform="translate(-149.5,-11)">
+       inkscape:label="#g922">
       <rect
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
          id="rect340"
          width="2"
          height="16"
-         x="217.72035"
-         y="920.6048" />
+         x="68.220352"
+         y="909.6048" />
       <rect
-         y="935.6048"
-         x="217.72035"
+         y="924.6048"
+         x="68.220352"
          height="1"
          width="2"
          id="rect342"
@@ -729,16 +726,15 @@
          id="rect344"
          width="1"
          height="16"
-         x="218.72035"
-         y="920.6048" />
+         x="69.220352"
+         y="909.6048" />
     </g>
     <g
        id="column-header-hover"
-       inkscape:label="#g6310"
-       transform="translate(-149.5,-11)">
+       inkscape:label="#g930">
       <rect
-         y="920.6048"
-         x="221.72035"
+         y="909.6048"
+         x="72.220352"
          height="16"
          width="2"
          id="rect348"
@@ -748,11 +744,11 @@
          id="rect350"
          width="2"
          height="1"
-         x="221.72035"
-         y="935.6048" />
+         x="72.220352"
+         y="924.6048" />
       <rect
-         y="920.6048"
-         x="222.72035"
+         y="909.6048"
+         x="73.220352"
          height="16"
          width="1"
          id="rect352"
