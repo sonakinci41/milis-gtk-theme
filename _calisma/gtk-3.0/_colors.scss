@@ -1,27 +1,27 @@
 // When color definition differs for dark and light variant,
 // it gets @if ed depending on $variant
 
-$base_color: if($variant == 'light', #ffffff, #464a3c);
-$text_color: if($variant == 'light', #272822, #cfd0c2);
-$bg_color: if($variant == 'light', #cfd0c2, #272822);
-$fg_color: if($variant == 'light', #272822, #cfd0c2);
+$base_color: if($variant == 'light', #ffffff, #000000);
+$text_color: if($variant == 'light', #000000, #ffffff);
+$bg_color: if($variant == 'light', #ffffff, #000000);
+$fg_color: if($variant == 'light', #000000, #ffffff);
 
 $selected_fg_color: #ffffff;
 $selected_bg_color: #6cc72c;
 $selected_borders_color: #6cc72c;
-$borders_color: if($variant == 'light', #272822, #cfd0c2);
-$borders_edge: if($variant == 'light', #272822, #cfd0c2);
+$borders_color: if($variant == 'light', #000000, #ffffff);
+$borders_edge: if($variant == 'light', #000000, #ffffff);
 $link_color: #6cc72c;
 $link_visited_color: #66d9ee;
 $top_hilight: $borders_edge;
-$dark_fill: if($variant == 'light', #cfd0c2, #272822);
-$headerbar_color: if($variant == 'light', #cfd0c2, #272822);
-$menu_color: if($variant == 'light', #cfd0c2, #272822);
-$popover_bg_color: if($variant == 'light', #cfd0c2, #272822);
+$dark_fill: if($variant == 'light', #ffffff, #000000);
+$headerbar_color: if($variant == 'light', #ffffff, #000000);
+$menu_color: if($variant == 'light', #ffffff, #000000);
+$popover_bg_color: if($variant == 'light', #ffffff, #000000);
 $popover_hover_color: #6cc72c;
 
-$scrollbar_bg_color: if($variant == 'light', #cfd0c2, #272822);
-$scrollbar_slider_color: if($variant == 'light', #aba795, #343430);
+$scrollbar_bg_color: if($variant == 'light', #ffffff, #000000);
+$scrollbar_slider_color: if($variant == 'light', #cccccc, #333333);
 $scrollbar_slider_hover_color: #6cc72c;
 $scrollbar_slider_active_color: #6cc72c;
 
@@ -30,42 +30,42 @@ $error_color: #6cc72c;
 $success_color: #66d9ee;
 $destructive_color: #fa2772;
 
-$osd_fg_color: if($variant == 'light', #272822, #cfd0c2);
-$osd_text_color: if($variant == 'light', #272822, #cfd0c2);
-$osd_bg_color: if($variant == 'light', #cfd0c2, #272822);
-$osd_insensitive_bg_color: if($variant == 'light', #aba795, #343430);
-$osd_insensitive_fg_color: if($variant == 'light', #272822, #cfd0c2);
-$osd_borders_color: if($variant == 'light', #272822, #cfd0c2);
+$osd_fg_color: if($variant == 'light', #000000, #ffffff);
+$osd_text_color: if($variant == 'light', #000000, #ffffff);
+$osd_bg_color: if($variant == 'light', #ffffff, #000000);
+$osd_insensitive_bg_color: if($variant == 'light', #eeeeee, #111111);
+$osd_insensitive_fg_color: if($variant == 'light', #000000, #ffffff);
+$osd_borders_color: if($variant == 'light', #000000, #ffffff);
 
-$sidebar_bg_color: if($variant == 'light', #cfd0c2, #272822);
+$sidebar_bg_color: if($variant == 'light', #ffffff, #000000);
 $base_hover_color: #6cc72c;
 
-$tooltip_borders_color: if($variant == 'light', #272822, #cfd0c2);
-$shadow_color: if($variant == 'light', #272822, #cfd0c2);;
+$tooltip_borders_color: if($variant == 'light', #000000, #ffffff);
+$shadow_color: if($variant == 'light', #000000, #ffffff);;
 
 $drop_target_color: #6cc72c;
 
 // Unity and other GTK3 panels
-$panel_bg: if($variant == 'light', #cfd0c2, #272822);
-$panel_fg: if($variant == 'light', #272822, #cfd0c2);
+$panel_bg: if($variant == 'light', #ffffff, #000000);
+$panel_fg: if($variant == 'light', #000000, #ffffff);
 
 //insensitive state derived colors
-$insensitive_fg_color: if($variant == 'light', #343430, #aba795);;
-$insensitive_bg_color: if($variant == 'light', #aba795, #343430);
-$insensitive_borders_color: if($variant == 'light', #aba795, #343430);
+$insensitive_fg_color: if($variant == 'light', #111111, #eeeeee);;
+$insensitive_bg_color: if($variant == 'light', #eeeeee, #111111);
+$insensitive_borders_color: if($variant == 'light', #cccccc, #333333);
 
 //colors for the backdrop state, derived from the main colors.
 $backdrop_base_color: $base_color;
-$backdrop_text_color: if($variant == 'light', #272822, #cfd0c2);
+$backdrop_text_color: if($variant == 'light', #000000, #ffffff);
 $backdrop_bg_color: $bg_color;
-$backdrop_fg_color: if($variant == 'light', #272822, #cfd0c2);
-$backdrop_insensitive_color: if($variant == 'light', #aba795, #343430);
+$backdrop_fg_color: if($variant == 'light', #000000, #ffffff);
+$backdrop_insensitive_color: if($variant == 'light', #eeeeee, #111111);
 $backdrop_selected_fg_color: $selected_fg_color;
-$backdrop_borders_color: if($variant == 'light', #272822, #cfd0c2);
-$backdrop_dark_fill: if($variant == 'light', #cfd0c2, #272822);
-$backdrop_sidebar_bg_color: if($variant == 'light', #cfd0c2, #272822);
+$backdrop_borders_color: if($variant == 'light', #000000, #ffffff);
+$backdrop_dark_fill: if($variant == 'light', #ffffff, #000000);
+$backdrop_sidebar_bg_color: if($variant == 'light', #ffffff, #000000);
 
-$backdrop_scrollbar_bg_color: if($variant == 'light', #cfd0c2, #272822);
-$backdrop_scrollbar_slider_color: if($variant == 'light', #272822, #cfd0c2);
+$backdrop_scrollbar_bg_color: if($variant == 'light', #ffffff, #000000);
+$backdrop_scrollbar_slider_color: if($variant == 'light', #000000, #ffffff);
 
-$backdrop_menu_color: if($variant == 'light', #cfd0c2, #272822);
+$backdrop_menu_color: if($variant == 'light', #ffffff, #000000);
