@@ -4,13 +4,13 @@
 # Tema lisansı GPLv3.0 dır.
 
 gtk-color-scheme   = "bg_color:#000000\nselected_bg_color:#6cc72c\nbase_color:#000000" # Background, base.
-gtk-color-scheme   = "fg_color:#ffffff\nselected_fg_color:#ffffff\ntext_color:#ffffff" # Foreground, text.
-gtk-color-scheme   = "tooltip_bg_color:#000000\ntooltip_fg_color:#ffffff" # Tooltips.
+gtk-color-scheme   = "fg_color:#000000\nselected_fg_color:#000000\ntext_color:#000000" # Foreground, text.
+gtk-color-scheme   = "tooltip_bg_color:#000000\ntooltip_fg_color:#000000" # Tooltips.
 gtk-color-scheme   = "link_color:#6cc72c" # Hyperlinks
 gtk-color-scheme   = "panel_bg_color:#000000" # Panel bg color
-gtk-color-scheme   = "panel_fg_color:#ffffff" # Panel fg color
-gtk-color-scheme   = "fm_color:#ffffff" # Color used in Thunar.
-gtk-color-scheme   = "bg_color_dark:#000000\ntext_color_dark:#ffffff"
+gtk-color-scheme   = "panel_fg_color:#000000" # Panel fg color
+gtk-color-scheme   = "fm_color:#000000" # Color used in Thunar.
+gtk-color-scheme   = "bg_color_dark:#000000\ntext_color_dark:#000000"
 
 gtk-icon-sizes     = "panel-applications-menu=24,24:panel-menu=24,24:panel=16,16:gtk-button=16,16"
 gtk-button-images  = 1 # Disables icons for buttons with text
@@ -449,7 +449,7 @@ style "scrollbar"
 {
     GtkScrollbar::arrow-scaling = 0.5
 
-    bg[NORMAL]      = "#343430"
+    bg[NORMAL]      = "#aba795"
     bg[ACTIVE]      = @selected_bg_color
     bg[PRELIGHT]    = @selected_bg_color
     bg[INSENSITIVE] = @bg_color
@@ -473,7 +473,7 @@ style "vscrollbar" {
 
 style "overlay-scrollbar"
 {
-    bg[SELECTED]    = "#343430"
+    bg[SELECTED]    = "#aba795"
     bg[INSENSITIVE] = @bg_color
     bg[ACTIVE]      = @selected_bg_color
 }
@@ -693,8 +693,8 @@ style "xfdesktop-icon-view"
 
 style "calendar"
 {
-    fg[NORMAL]   = "#ffffff"
-    fg[PRELIGHT] = "#ffffff"
+    fg[NORMAL]   = "#000000"
+    fg[PRELIGHT] = "#000000"
     bg[NORMAL]   = shade (0.6, @bg_color_dark)
     bg[PRELIGHT] = shade (0.8, @selected_bg_color)
 }
