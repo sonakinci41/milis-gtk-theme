@@ -6,7 +6,7 @@ $text_color: if($variant == 'light', #272822, #cfd0c2);
 $bg_color: if($variant == 'light', #cfd0c2, #272822);
 $fg_color: if($variant == 'light', #272822, #cfd0c2);
 
-$selected_fg_color: #cfd0c2;
+$selected_fg_color: #ffffff;
 $selected_bg_color: #6cc72c;
 $selected_borders_color: #6cc72c;
 $borders_color: if($variant == 'light', #a9ab97, #1f1f1b);
