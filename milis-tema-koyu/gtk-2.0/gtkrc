@@ -449,7 +449,7 @@ style "scrollbar"
 {
     GtkScrollbar::arrow-scaling = 0.5
 
-    bg[NORMAL]      = "#343430"
+    bg[NORMAL]      = "#666666"
     bg[ACTIVE]      = @selected_bg_color
     bg[PRELIGHT]    = @selected_bg_color
     bg[INSENSITIVE] = @bg_color
