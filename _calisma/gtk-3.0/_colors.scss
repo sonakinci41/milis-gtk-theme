@@ -9,8 +9,8 @@ $fg_color: if($variant == 'light', #272822, #cfd0c2);
 $selected_fg_color: #cfd0c2;
 $selected_bg_color: #6cc72c;
 $selected_borders_color: #6cc72c;
-$borders_color: if($variant == 'light', #d8d9cd, #32332b);
-$borders_edge: if($variant == 'light', #d8d9cd, #32332b);
+$borders_color: if($variant == 'light', #a9ab97, #1f1f1b);
+$borders_edge: if($variant == 'light', #a9ab97, #1f1f1b);
 $link_color: #6cc72c;
 $link_visited_color: #66d9ee;
 $top_hilight: $borders_edge;
@@ -21,7 +21,7 @@ $popover_bg_color: if($variant == 'light', #cfd0c2, #272822);
 $popover_hover_color: #6cc72c;
 
 $scrollbar_bg_color: if($variant == 'light', #cfd0c2, #272822);
-$scrollbar_slider_color: if($variant == 'light', #d8d9cd, #32332b);
+$scrollbar_slider_color: if($variant == 'light', #a9ab97, #1f1f1b);
 $scrollbar_slider_hover_color: #6cc72c;
 $scrollbar_slider_active_color: #6cc72c;
 
@@ -33,7 +33,7 @@ $destructive_color: #fa2772;
 $osd_fg_color: if($variant == 'light', #272822, #cfd0c2);
 $osd_text_color: if($variant == 'light', #272822, #cfd0c2);
 $osd_bg_color: if($variant == 'light', #cfd0c2, #272822);
-$osd_insensitive_bg_color: if($variant == 'light', #d8d9cd, #32332b);
+$osd_insensitive_bg_color: if($variant == 'light', #a9ab97, #1f1f1b);
 $osd_insensitive_fg_color: if($variant == 'light', #272822, #cfd0c2);
 $osd_borders_color: if($variant == 'light', #272822, #cfd0c2);
 
@@ -50,16 +50,16 @@ $panel_bg: if($variant == 'light', #cfd0c2, #272822);
 $panel_fg: if($variant == 'light', #272822, #cfd0c2);
 
 //insensitive state derived colors
-$insensitive_fg_color: if($variant == 'light', #32332b, #d8d9cd);;
-$insensitive_bg_color: if($variant == 'light', #d8d9cd, #32332b);
-$insensitive_borders_color: if($variant == 'light', #d8d9cd, #32332b);
+$insensitive_fg_color: if($variant == 'light', #1f1f1b, #a9ab97);;
+$insensitive_bg_color: if($variant == 'light', #a9ab97, #1f1f1b);
+$insensitive_borders_color: if($variant == 'light', #a9ab97, #1f1f1b);
 
 //colors for the backdrop state, derived from the main colors.
 $backdrop_base_color: $base_color;
 $backdrop_text_color: if($variant == 'light', #272822, #cfd0c2);
 $backdrop_bg_color: $bg_color;
 $backdrop_fg_color: if($variant == 'light', #272822, #cfd0c2);
-$backdrop_insensitive_color: if($variant == 'light', #d8d9cd, #32332b);
+$backdrop_insensitive_color: if($variant == 'light', #a9ab97, #1f1f1b);
 $backdrop_selected_fg_color: $selected_fg_color;
 $backdrop_borders_color: if($variant == 'light', #272822, #cfd0c2);
 $backdrop_dark_fill: if($variant == 'light', #cfd0c2, #272822);
