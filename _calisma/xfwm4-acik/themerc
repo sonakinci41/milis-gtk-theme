@@ -9,7 +9,7 @@ title_vertical_offset_inactive=0
 
 #button_layout=O|HMC
 
-active_text_color=#000000
+active_text_color=#333333
 inactive_text_color=#eeeeee
 inactive_text_shadow_color=#cccccc
 
