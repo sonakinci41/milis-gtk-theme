@@ -9,8 +9,8 @@ $fg_color: if($variant == 'light', #333333, #ffffff);
 $selected_fg_color: #ffffff;
 $selected_bg_color: #6cc72c;
 $selected_borders_color: #6cc72c;
-$borders_color: if($variant == 'light', #cccccc, #666666);
-$borders_edge: if($variant == 'light', #cccccc, #666666);
+$borders_color: if($variant == 'light', #cccccc, #282828);
+$borders_edge: if($variant == 'light', #cccccc, #282828);
 $link_color: #6cc72c;
 $link_visited_color: #66d9ee;
 $top_hilight: $borders_edge;
@@ -21,7 +21,7 @@ $popover_bg_color: if($variant == 'light', #ffffff, #333333);
 $popover_hover_color: #6cc72c;
 
 $scrollbar_bg_color: if($variant == 'light', #ffffff, #333333);
-$scrollbar_slider_color: if($variant == 'light', #cccccc, #666666);
+$scrollbar_slider_color: if($variant == 'light', #cccccc, #282828);
 $scrollbar_slider_hover_color: #6cc72c;
 $scrollbar_slider_active_color: #6cc72c;
 
@@ -52,7 +52,7 @@ $panel_fg: if($variant == 'light', #333333, #ffffff);
 //insensitive state derived colors
 $insensitive_fg_color: if($variant == 'light', #444444, #eeeeee);;
 $insensitive_bg_color: if($variant == 'light', #eeeeee, #444444);
-$insensitive_borders_color: if($variant == 'light', #cccccc, #666666);
+$insensitive_borders_color: if($variant == 'light', #cccccc, #282828);
 
 //colors for the backdrop state, derived from the main colors.
 $backdrop_base_color: $base_color;
