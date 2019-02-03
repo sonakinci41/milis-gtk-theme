@@ -34,7 +34,7 @@ bindsym $mod+Return exec xterm -fa "Noto-Sans" -fs 10.5
 bindsym $mod+Shift+q kill
 
 # start program launcher
-bindsym $mod+d exec --no-startup-id dmenu_run -fn 'Noto-10.5' -nb '#272822' -nf '#ffffff' -sf '#ffffff' -sb '#fe9720'
+bindsym $mod+d exec --no-startup-id dmenu_run -fn 'Noto-10.5' -nb '#272822' -nf '#cfd0c2' -sf '#cfd0c2' -sb '#fe9720'
 
 # launch categorized menu
 bindsym $mod+z exec --no-startup-id morc_menu
@@ -335,15 +335,15 @@ bar {
 
     colors {
         background #272822
-        statusline #ffffff
+        statusline #cfd0c2
         separator  #272822
 
 #                      border  backgr. text
-        focused_workspace  #76715e #272822 #ffffff
-        active_workspace   #76715e #272822 #ffffff
+        focused_workspace  #76715e #272822 #cfd0c2
+        active_workspace   #76715e #272822 #cfd0c2
         inactive_workspace #343430 #272822 #48483e
-        binding_mode       #fe9720 #fe9720 #ffffff
-        urgent_workspace   #a7e22e #a7e22e #ffffff
+        binding_mode       #fe9720 #fe9720 #cfd0c2
+        urgent_workspace   #a7e22e #a7e22e #cfd0c2
     }
 }
 
@@ -352,11 +352,11 @@ bindsym $mod+m bar mode toggle
 
 # Theme colors
 # class                   border  backgr. text    indic.   child_border
-  client.focused          #76715e #272822 #ffffff #48483e
-  client.focused_inactive #343430 #272822 #ffffff #48483e
-  client.unfocused        #272822 #272822 #ffffff #48483e
-  client.urgent           #a7e22e #a7e22e #ffffff #272822
-  client.placeholder      #fe9720 #fe9720 #ffffff #272822 
+  client.focused          #76715e #272822 #cfd0c2 #48483e
+  client.focused_inactive #343430 #272822 #cfd0c2 #48483e
+  client.unfocused        #272822 #272822 #cfd0c2 #48483e
+  client.urgent           #a7e22e #a7e22e #cfd0c2 #272822
+  client.placeholder      #fe9720 #fe9720 #cfd0c2 #272822 
 
   client.background       #272822
 
