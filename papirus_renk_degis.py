@@ -47,5 +47,5 @@ def degistir(metin,yrenk,listeKoordinat):
 	else:
 		return metin
 
-for i in [("/Papirus-Dark","dfdfdf","cfd0c2"),("/Papirus-Light","444444","272822")]:
+for i in [("/Papirus-Dark","dfdfdf","cfd0c2"),("/Papirus-Light","444444","272822"),("/Papirus","dfdfdf","cfd0c2"),("/Papirus","444444","272822")]:
 	klasor_ara(os.getcwd()+i[0],i[1],i[2])
