@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=milis-acik
+Description=milis-acik boot theme.
+ModuleName=script
+
+[script]
+ImageDir=@PLYMOUTH_THEME_PATH@/milis-acik
+ScriptFile=@PLYMOUTH_THEME_PATH@/milis-acik/milis-acik.script
