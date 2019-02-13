@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Milis Koyu Tema
+Description=A theme that features a background with a logo.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/milis-koyu
+ScriptFile=/usr/share/plymouth/themes/milis-koyu/milis-koyu.script
