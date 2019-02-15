@@ -34,7 +34,7 @@ bindsym $mod+Return exec xterm -fa "Noto-Sans" -fs 10.5
 bindsym $mod+Shift+q kill
 
 # start program launcher
-bindsym $mod+d exec --no-startup-id dmenu_run -fn 'Noto-10.5' -nb '#272822' -nf '#cfd0c2' -sf '#cfd0c2' -sb '#fe9720'
+bindsym $mod+d exec --no-startup-id dmenu_run -fn 'Noto-10.5' -nb '#272822' -nf '#cfd0c2' -sf '#cfd0c2' -sb '#6cc72c'
 
 # launch categorized menu
 bindsym $mod+z exec --no-startup-id morc_menu
@@ -342,7 +342,7 @@ bar {
         focused_workspace  #76715e #272822 #cfd0c2
         active_workspace   #76715e #272822 #cfd0c2
         inactive_workspace #343430 #272822 #48483e
-        binding_mode       #fe9720 #fe9720 #cfd0c2
+        binding_mode       #6cc72c #6cc72c #cfd0c2
         urgent_workspace   #a7e22e #a7e22e #cfd0c2
     }
 }
@@ -356,7 +356,7 @@ bindsym $mod+m bar mode toggle
   client.focused_inactive #343430 #272822 #cfd0c2 #48483e
   client.unfocused        #272822 #272822 #cfd0c2 #48483e
   client.urgent           #a7e22e #a7e22e #cfd0c2 #272822
-  client.placeholder      #fe9720 #fe9720 #cfd0c2 #272822 
+  client.placeholder      #6cc72c #6cc72c #cfd0c2 #272822 
 
   client.background       #272822
 
