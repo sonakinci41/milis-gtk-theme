@@ -1,9 +1,0 @@
-[Desktop Entry]
-Type=X-GNOME-Metatheme
-Name=Milis-tema-koyu
-Comment=Milis Gtk Teması
-Encoding=UTF-8
-
-[X-GNOME-Metatheme]
-GtkTheme=Milis-tema-koyu
-ButtonLayout=:minimize,maximize,close
